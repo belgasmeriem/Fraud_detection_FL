@@ -1,0 +1,8 @@
+data/*.parquet
+certs/*.key
+certs/*.crt
+certs/*.srl
+results/server_results.json
+__pycache__/
+*.pyc
+.DS_Store
